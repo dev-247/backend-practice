@@ -1,0 +1,8 @@
+Objective : Connect Mongodb cloud with nodeJS ,do CRUD operation
+
+    Steps to Follow:
+
+        1.Create a mongo db cloud cluster and get the url
+        2.Create a db helper function to connect and do crud operation on them
+        3.create a collection // scheme
+        4.Create apis to perform crud .

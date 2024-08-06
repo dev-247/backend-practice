@@ -1,0 +1,85 @@
+2024-07-28T04:04:27.335Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"d1583cdf-c128-42b5-b7f4-edb7da74249c","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"132"}
+body:{"firstName":"fdfdffgd","email":"jdahsdjg@gmail.com","jobTitle":"Devops","gender":"male","lastName":"Nasjd"}
+status:201 -time :62ms
+===========reqEND==============
+2024-07-28T04:04:56.991Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"fdde751f-f7bb-4d1f-aee8-467d4b1fa653","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"132"}
+body:{"firstName":"gfghfgh","email":"jgfhfghjg@gmail.com","jobTitle":"Devops","gender":"male","lastName":"Nasjd"}
+status:201 -time :43ms
+===========reqEND==============
+2024-07-28T04:05:03.095Z GET /user
+header:{"user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"a98f6232-a4d5-4cfc-88e2-817b7db15f25","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+body:{}
+status:200 -time :57ms
+===========reqEND==============
+2024-07-28T04:08:30.970Z DELETE /user/delete/66a5299c04cd3f7d0e85033d
+header:{"user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"0aa64f0c-fc24-4e08-b13c-2c253935573c","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+body:{}
+status:200 -time :90ms
+===========reqEND==============
+2024-07-28T04:34:50.003Z GET /user
+header:{"user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"88dfc74a-31c0-45b2-8ba1-ccacefb0bb6a","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+body:{}
+status:200 -time :292ms
+===========reqEND==============
+2024-07-28T04:44:16.956Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"1aae4dd4-7af2-4d0d-9685-6103b5eb997f","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"134"}
+body:{"firstName":"user name","email":"jgfhfghjg@gmail.com","jobTitle":"Devops","gender":"male","lastName":"Nasjd"}
+status:201 -time :56ms
+===========reqEND==============
+2024-07-28T04:45:58.930Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"07a9a8f7-f958-4f41-9f69-8b02855fa306","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"125"}
+body:{"firstName":"dhaval","email":"dhaval@gmail.com","jobTitle":"IOS","gender":"male","lastName":"Nagar"}
+status:201 -time :47ms
+===========reqEND==============
+2024-07-28T04:46:14.567Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"d23f3a71-85a8-49e1-9494-2ab4057ead65","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"130"}
+body:{"firstName":"Akshay","email":"akshay@gmail.com","jobTitle":"Business","gender":"male","lastName":"Nagar"}
+status:201 -time :32ms
+===========reqEND==============
+2024-07-28T04:46:31.550Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"54555041-e233-43a5-99f9-348c12131998","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"133"}
+body:{"firstName":"Pawan","email":"pawan@gmail.com","jobTitle":"Self-employed","gender":"male","lastName":"Nagar"}
+status:201 -time :26ms
+===========reqEND==============
+2024-07-28T04:47:09.896Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"c510faef-e631-4d2a-912f-2a12f35dc0b8","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"125"}
+body:{"firstName":"Nirmal","email":"nirmal@gmail.com","jobTitle":"IOT","gender":"male","lastName":"Nagar"}
+status:201 -time :31ms
+===========reqEND==============
+2024-07-28T04:47:11.334Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"90a45f12-f533-4e25-8a5a-3452bc702af3","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"125"}
+body:{"firstName":"Nirmal","email":"nirmal@gmail.com","jobTitle":"IOT","gender":"male","lastName":"Nagar"}
+status:400 -time :29ms
+===========reqEND==============
+2024-07-28T04:47:55.871Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"73f729e9-ab61-4715-98d5-f7e139b67b14","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"143"}
+body:{"firstName":"Jayhree","email":"jayshree@gmail.com","jobTitle":"Fashion Designer","gender":"Female","lastName":"Nagar"}
+status:201 -time :25ms
+===========reqEND==============
+2024-07-28T04:48:24.185Z POST /user/create
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"16b889f6-fd22-46ee-8bba-634b59c64d26","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"131"}
+body:{"firstName":"Vikaram","email":"vikram@gmail.com","jobTitle":"Business","gender":"Male","lastName":"Nagar"}
+status:201 -time :34ms
+===========reqEND==============
+2024-07-28T04:48:38.669Z GET /user
+header:{"user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"97785825-bae5-4ec3-9ae3-bc2ec443581f","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+body:{}
+status:200 -time :35ms
+===========reqEND==============
+2024-07-28T04:58:19.919Z GET /user
+header:{"user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"09821b4d-b6e5-464b-b6b2-074f9a1ff804","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+body:{}
+status:200 -time :59ms
+===========reqEND==============
+2024-07-28T04:59:43.947Z PUT /user/update/66a5cca01db5192973806ccd
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"47e8b1bc-daf7-4591-8db8-976634267232","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"136"}
+body:{"firstName":"Vasudev","lastName":"Nagar","email":"vasudgd@gmail.com","jobTitle":"Admin","gender":"male"}
+status:404 -time :4ms
+===========reqEND==============
+2024-07-28T04:59:50.106Z PATCH /user/update/66a5cca01db5192973806ccd
+header:{"content-type":"application/json","user-agent":"PostmanRuntime/7.40.0","accept":"*/*","cache-control":"no-cache","postman-token":"e96edaf6-b9a1-4a9e-98c3-197721d6bdde","host":"192.168.29.49:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"136"}
+body:{"firstName":"Vasudev","lastName":"Nagar","email":"vasudgd@gmail.com","jobTitle":"Admin","gender":"male"}
+status:201 -time :48ms
+===========reqEND==============
